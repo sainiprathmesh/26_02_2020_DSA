@@ -14,7 +14,6 @@ public class Helper {
                 val /= 2;
             }
             bin = new StringBuilder(reverse(bin.toString()));
-
             System.out.print("0" + bin + " ");
         }
     }
